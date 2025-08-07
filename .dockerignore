@@ -1,8 +1,7 @@
 .git
 .gitignore
-.github
-terraform
 test
+terraform
 .eslintrc.js
 .prettierrc
 Dockerfile
