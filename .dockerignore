@@ -1,0 +1,10 @@
+.git
+.gitignore
+.github
+terraform
+test
+.eslintrc.js
+.prettierrc
+Dockerfile
+docker-compose.yml
+README.md
