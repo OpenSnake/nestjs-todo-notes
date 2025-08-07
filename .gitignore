@@ -35,3 +35,9 @@ lerna-debug.log*
 
 .env
 node_modules/
+
+# Terraform
+.terraform
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
